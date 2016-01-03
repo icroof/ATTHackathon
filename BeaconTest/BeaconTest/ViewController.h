@@ -15,6 +15,7 @@
 
 @property (strong, nonatomic) CLBeaconRegion *beaconRegion;
 @property (strong, nonatomic) CLLocationManager *locationManager;
+//test
 
 @end
 
